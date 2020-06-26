@@ -8,7 +8,7 @@ The colors have been switched to HSL. The body text is Verdana which should alre
 
 ## Install 
 
-Fork the repo and save smolblind.css in file:///C:/Users/YOURUSERNAME/AppData/Roaming/Typora/themes
+Fork the repo and save smolblind.css in file:///C:/Users/YOURUSERNAME/AppData/Roaming/Typora/themes. You will need to restart Typora for the theme to show up.
 
 Preview:
 
